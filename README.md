@@ -2,7 +2,7 @@
 
 This repository contains the source code of Template03 from the collection of 100 free templates. The template is designed to serve a multitude of purposes, including professional portfolios, e-commerce websites, blogging platforms, and more.
 
-## Demo url [https://templates01.netlify.app/](https://templates03.netlify.app/)
+## Demo https://templates03.netlify.app/
 
 ## Purpose
 
