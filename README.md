@@ -15,7 +15,7 @@ The primary objective of contributing this template to open source is to provide
 - **Easy Customization:** Simple to modify, allowing developers to tailor it to specific needs.
 - **Rich Components:** Includes essential elements for portfolios, e-commerce, and blogs.
 - **Accessibility:** Designed with accessibility in mind, making it user-friendly for everyone.
-- 
+  
 
 ## SnapShot
 ![Templates03](https://github.com/Rohitashsingh89/templates03/assets/93479842/b4fd74b5-37c3-44f7-b6f1-f98629c03dea)
