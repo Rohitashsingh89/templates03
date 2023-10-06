@@ -18,7 +18,9 @@ The primary objective of contributing this template to open source is to provide
   
 
 ## SnapShot
-![Templates03](https://github.com/Rohitashsingh89/templates03/assets/93479842/b4fd74b5-37c3-44f7-b6f1-f98629c03dea)
+<div style="max-height: 300px; overflow-y: auto;">
+  <img src="https://github.com/Rohitashsingh89/templates03/assets/93479842/b4fd74b5-37c3-44f7-b6f1-f98629c03dea" alt="Templates03">
+</div>
 
 ## Technologies Used
 
