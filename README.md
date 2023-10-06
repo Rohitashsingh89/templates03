@@ -22,6 +22,13 @@ The primary objective of contributing this template to open source is to provide
   <img src="https://github.com/Rohitashsingh89/templates03/assets/93479842/b4fd74b5-37c3-44f7-b6f1-f98629c03dea" alt="Templates03">
 </div>
 
+## SnapShot
+
+<img src="https://github.com/Rohitashsingh89/templates03/assets/93479842/b4fd74b5-37c3-44f7-b6f1-f98629c03dea" alt="Templates03" height="300">
+
+[View Full Image](https://github.com/Rohitashsingh89/templates03/assets/93479842/b4fd74b5-37c3-44f7-b6f1-f98629c03dea)
+
+
 ## Technologies Used
 
 - **HTML**
