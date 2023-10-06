@@ -2,7 +2,7 @@
 
 This repository contains the source code of Template03 from the collection of 100 free templates. The template is designed to serve a multitude of purposes, including professional portfolios, e-commerce websites, blogging platforms, and more.
 
-## Demo url [https://templates01.netlify.app/](https://templates2.netlify.app/)
+## Demo url [https://templates01.netlify.app/](https://templates03.netlify.app/)
 
 ## Purpose
 
@@ -18,7 +18,7 @@ The primary objective of contributing this template to open source is to provide
 - 
 
 ## SnapShot
-![Templates2](https://github.com/Rohitashsingh89/template2/assets/93479842/a8836f56-2ad1-4ef0-994a-d44246cacb43)
+![Templates03](https://github.com/Rohitashsingh89/templates03/assets/93479842/b4fd74b5-37c3-44f7-b6f1-f98629c03dea)
 
 ## Technologies Used
 
